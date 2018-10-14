@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrinkIO</string>
+    <string name="str_gamestart">Zum Spiel</string>
+    <string name="Aufgaben">Aufgaben</string>
+    <string name="einstellungen">Einstellungen</string>
+    <string name="men">Mann</string>
+    <string name="women">Frau</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/alldelet"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Alle Löschen" />
+    <item
+        android:id="@+id/newadd"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Neu erzeugen" />
+
+</menu>
